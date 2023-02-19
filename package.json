@@ -1,0 +1,11 @@
+{
+  "name": "test-types-jquery",
+  "private": true,
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/tablesorter": "*",
+        "jquery": "*",
+        "tablesorter": "*",
+        "typescript": "*"
+    }
+}
